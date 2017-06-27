@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'JATableViewRowAction'
-  s.version = '0.1.1'
+  s.version = '0.1.2'
   s.license = 'MIT'
   s.summary = 'A custom TableViewRowAction to use only image and image with text.'
   s.homepage = 'https://github.com/assisjeferson/JATableViewRowAction'
