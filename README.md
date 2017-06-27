@@ -23,7 +23,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 JATableViewRowAction is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-```ruby
+```swift
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '9.0'
 use_frameworks!
@@ -33,13 +33,13 @@ pod "JATableViewRowAction"
 
 Then run the following command:
 
-```ruby
+```swift
 $ pod install
 ```
 
 # Usage
 
-```ruby
+```swift
 
 // In your imports:
 import JATableViewRowAction
